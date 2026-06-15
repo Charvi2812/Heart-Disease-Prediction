@@ -5,7 +5,7 @@ Heart disease is one of the leading causes of death worldwide. Early prediction 
 This project uses Machine Learning algorithms to classify patients based on their medical information. After comparing multiple models, K-Nearest Neighbors (KNN) was selected for deployment.
 
 
-** Features**
+Features
 
  Exploratory Data Analysis (EDA)
  
@@ -26,7 +26,7 @@ Interactive Streamlit Web Application
 Instant Heart Disease Risk Prediction
 
 
-** Technologies Used**
+Technologies Used
 
 Python
 
@@ -44,7 +44,7 @@ Streamlit
 
 Joblib
 
-🤖** Machine Learning Models Compared**
+ Machine Learning Models Compared
 
 The following algorithms were trained and evaluated:
 
