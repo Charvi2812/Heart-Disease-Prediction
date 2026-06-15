@@ -2,11 +2,11 @@
 📌 Project Overview
 
 Heart disease is one of the leading causes of death worldwide. Early prediction can help individuals seek timely medical attention.
-
 This project uses Machine Learning algorithms to classify patients based on their medical information. After comparing multiple models, K-Nearest Neighbors (KNN) was selected for deployment.
 
 
 🚀** Features**
+
 📊 Exploratory Data Analysis (EDA)
 🧹 Data Cleaning & Preprocessing
 🔄 Feature Encoding
@@ -19,6 +19,7 @@ This project uses Machine Learning algorithms to classify patients based on thei
 
 
 🛠️** Technologies Used**
+
 Python
 Pandas
 NumPy
